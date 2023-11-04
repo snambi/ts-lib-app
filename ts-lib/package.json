@@ -1,0 +1,11 @@
+{
+  "name": "ts-lib",
+  "version": "1.0.0",
+  "description": "Typescript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nambi sankaran",
+  "license": "GPL-2.0"
+}
