@@ -2,7 +2,7 @@
   "name": "ts-lib",
   "version": "1.0.0",
   "description": "Typescript Library",
-  "main": "index.js",
+  "type": "module",
   "author": "nambi sankaran",
   "homepage": "https://github.com/snambi/ts-lib-app/tree/main/ts-lib",
   "license": "GPL-2.0",
