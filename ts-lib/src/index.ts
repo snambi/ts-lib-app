@@ -1,1 +1,3 @@
-console.log("hello world");
+export const sayHi = () => {
+    console.log("Hi");
+  };
