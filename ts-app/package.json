@@ -1,0 +1,22 @@
+{
+  "name": "ts-app",
+  "version": "1.0.0",
+  "description": "sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ts-lib": "file:../ts-lib"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
